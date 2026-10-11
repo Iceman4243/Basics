@@ -4,7 +4,7 @@ Console.WriteLine("number:");
 int n=int.Parse(Console.ReadLine());
 if (n%2==0)
 {
-    Console.WriteLine("evn");
+    Console.WriteLine("even");
 }
 else
 {
